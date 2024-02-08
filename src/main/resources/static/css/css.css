@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 feb 2024, 23:22:39
+    Author     : Sebastian
+*/
+
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  background-color: #1D6C00;
+  color:#E7E7E7;
+}
+
+.seleccionado{
+   background-color:  #A2A2A2;
+       color: red;
+}
